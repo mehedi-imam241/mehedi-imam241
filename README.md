@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **mehediimam1805039@outlook.com**
 
-- ⚡ Fact about me **Once I get serious on something, I become the finest**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mèhédï ìmám" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mèhédï ìmám" height="30" width="40" /></a>
